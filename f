@@ -1,6 +1,7 @@
-#include<stdio.h>
-int a,b,c;
-a=10;
-b=20;
+public class add {
+public static void main(String[] args){
+int a=10;b=10,c;
 c=a+b;
-printf(" sum of two numbers is " +c);
+System.out.println(" sum of two numbers is " +c);
+}
+}
